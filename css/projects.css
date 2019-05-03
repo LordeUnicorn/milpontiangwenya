@@ -41,7 +41,7 @@ body {
 .showcase {
 	grid-area: showcase;
 	min-height: 400px;
-	background: url(/home/recruit/Downloads/anas-alshanti-169265-unsplash.jpg);
+	background: url(../image/keyboard.jpg);
 	background-size: cover;
 	background-position: center;
 	padding: 3rem;
